@@ -1,0 +1,32 @@
+[
+  {
+    "producto": "Coca Cola",
+    "precio": 1.5,
+    "stock": 10,
+    "id": "e5c0fb3b-5559-4814-95dc-ee08275434b5"
+  },
+  {
+    "producto": "Pepsi",
+    "precio": 1.5,
+    "stock": 21,
+    "id": "7286f566-1f1c-4444-98e0-3b089b48b152"
+  },
+  {
+    "producto": "Agua",
+    "precio": 1.5,
+    "stock": 15,
+    "id": "bb979a57-85bd-4cae-b6c0-70ff8696ef5d"
+  },
+  {
+    "producto": "Cerveza",
+    "precio": 1.5,
+    "stock": 11,
+    "id": "ef867fd0-648f-4916-a6de-307163aea955"
+  },
+  {
+    "producto": "Vino",
+    "precio": 1.5,
+    "stock": 100,
+    "id": "9d860a7e-dc31-4886-945e-a727d8b2fcf5"
+  }
+]
